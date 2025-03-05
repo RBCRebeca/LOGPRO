@@ -1,0 +1,9 @@
+programa{
+     funcao inicio(){
+          logico A = verdadeiro
+          logico B = falso
+          
+           escreva(" A AND B : ", A e B, "\n")
+           escreva(" A OR B : ", A ou B, "\n")
+           escreva(" A NOT B : ",  nao B, "\n") }
+}
