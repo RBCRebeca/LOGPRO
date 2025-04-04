@@ -1,0 +1,13 @@
+	programa
+{
+
+	funcao inicio()
+	{
+		cadeia	textoDigitado // declarar  variável para texto
+
+		escreva("deixe sua opinião: ") // texto para medir que o usuário escreva a opinião
+		leia(textoDigitado) // inserir texto descrito 
+
+		escreva(" obrigada pela sua opinião ", textoDigitado)
+	}
+}
