@@ -8,6 +8,6 @@
 		escreva("deixe sua opinião: ") // texto para medir que o usuário escreva a opinião
 		leia(textoDigitado) // inserir texto descrito 
 
-		escreva(" obrigada pela sua opinião ", textoDigitado)
+		escreva("Obrigada pela sua opinião ", textoDigitado)
 	}
 }
